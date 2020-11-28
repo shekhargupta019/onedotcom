@@ -1,0 +1,112 @@
+{
+  "reviews": [
+      {
+        "id": 1,
+	"book": {
+		"title": "Desert Solitaire",
+	        "author": "Edward Abbey",
+		"category": "Biography & Memoir",
+		"image": "https://books.google.com/books/content?id=VQewd9LDbzgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"reviewer": {
+		"name": "Rachit Jain",
+		"published": "Jul 26, 2018",
+		"text": "Written in the middle of the 1960s, yet composed largely from journals kept a decade earlier during the author’s summers as a backcountry ranger at the Arches National Monument (“among,” as he puts it, “the hoodoo rocks and voodoo silence of the Utah wilderness”), Desert Solitaire evokes the paradoxical loveliness of the harsh, hostile landscape with awestruck exactitude and visceral intensity. Edward Abbey’s attention to the desert flora and fauna, to the ancient rock formations and the ever-present weather, to the pleasures of both solitude and company, brings a bracing alertness to the episodes he describes in the linked essays that organize his narrative. Despite its canonization as something of a backpacker’s bible, Desert Solitaire is too quirky, cranky, and idiosyncratic to be stereotyped as a nature lover’s handbook. While the spare majesty of its setting provides a stunning inspiration for Abbey’s work, his meditations have as much to say about society, civilization, and culture as they do about nature."
+	},
+	"comments": [
+		{
+		 "name": "Tom Beans",
+		 "text": "This book is the reason I left the East Coast 25 years ago and never went back.",
+		 "published": "Oct 29, 2018" 
+		}, 
+		{
+		 "name": "Bruce Greeley",
+		 "text": "Independent cuss..!",
+		 "published": "ov 5, 2018" 
+		} 
+	],
+	"like": 96,
+	"dislike": 0
+      },
+      {
+        "id": 2,
+	"book": {
+		"title": "Flatland",
+	        "author": "Edwin A. Abbott",
+		"category": "Literature",
+		"image": "https://books.google.com/books/content?id=QMazAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"reviewer": {
+		"name": "Abhimanyu",
+		"published": "Aug 9, 2018",
+		"text": "A novel of mathematical whimsy, Flatland is set in the peculiar world that provides the book’s name and is home to its putative author, A. Square, a two-dimensional being in a world inhabited by lines, triangles, circles, and polygons. Ingeniously composed as a kind of dystopian memoir, Flatland is a stunning piece of social satire, depicting with great acuity the gender and class distinctions of Victorian Britain. Abbott’s notions about the larger conundrums posed by different dimensions and their relationships to one another were ahead of their time, mathematically speaking, but the enduring fascination of his fable is its depiction of the perils of making the world simpler than it is, no matter how elegantly provable that simplicity may seem."
+	},
+	"comments": [],
+	"like": 104,
+	"dislike": 0
+      },
+      {
+        "id": 3,
+	"book": {
+		"title": "Things Fall Apart",
+	        "author": "Chinua Achebe",
+		"category": "Literature",
+		"image": "https://s3.amazonaws.com/1000books.com/img/answers/29.jpg"
+	},
+	"reviewer": {
+		"name": "Rachit Jain",
+		"published": "Jul 27, 2018",
+		"text": "Composed in English and published in 1958, two years before Nigeria declared independence, Things Fall Apart was the first African novel to attain a wide international readership. It is a short, sparely told tale that nevertheless embraces themes of enormous import: fate and will, the determining influences of familial inheritance, the consequences and consolations of custom, the legacy of colonialism. It also illuminates the personal and political crises provoked by the failure of individuals and societies to grow while maintaining their identities in the face of change. And while the novel is steeped in Achebe’s native Igbo culture and alert to the conflicts inherent in the historical moment it depicts, its action seems to unfold on a universal stage; it is as rich in human substance as Greek tragedy, and just as mysteriously powerful in its effect."
+	},
+	"comments": [
+		{
+		 "name": "Pearl McElheran",
+		 "text": "beautifully written and an insightful glimpse into village life in Nigeria before it was ruined by imperialism",
+		 "published": "Oct 30, 2018" 
+		}
+	],
+	"like": 171,
+	"dislike": 22
+      },
+      {
+        "id": 4,
+	"book": {
+		"title": "Americanah",
+	        "author": "Chimamanda Ngozi Adichie",
+		"category": "Literature",
+		"image": "https://books.google.com/books/content?id=siSlP9JOj2YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"reviewer": {
+		"name": "Rachit Jain",
+		"published": "Mar 16, 2019",
+		"text": "This book changed my view on the world. Really recommend listening to the audio book."
+	},
+	"comments": [],
+	"like": 17,
+	"dislike": 3
+      },
+      {
+        "id": 5,
+	"book": {
+		"title": "Watership Down",
+	        "author": "Richard Adams",
+		"category": "Literature",
+		"image": "https://books.google.com/books/content?id=ittzoegmRpAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+	},
+	"reviewer": {
+		"name": "Abhimanyu",
+		"published": "Aug 27, 2018",
+		"text": "One of the most phenomenal international bestsellers of the 1970s, Watership Down is an immersive saga that traverses great themes and feelings—courage, frailty, community, ecology, responsibility, friendship, love—while holding readers on the edge of their metaphorical seats. And oh, yes—it’s a 500-page novel about rabbits. The novel relates the exploits of a small band of unsure but intrepid rabbits who, under threat from encroaching human development, leave their familiar warren and set out across the English Downs in search of a new home. The characters of the rabbit protagonists are convincingly drawn, and the sweep of the action that carries them through encounters with predators, unfriendly terrain, and bad weather—to say nothing of fear, fatigue, despair, and other dangerous states of body and mind—is irresistible."
+	},
+	"comments": [
+		{
+		 "name": "Tom Beans",
+		 "text": "This book is the reason I left the East Coast 25 years ago and never went back.",
+		 "published": "Oct 29, 2018" 
+		} 
+	],
+	"like": 6,
+	"dislike": 10
+      }
+    ]
+}

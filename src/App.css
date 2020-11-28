@@ -1,0 +1,53 @@
+.imgCol {
+  /* background-color:#aaa; */
+  float: left;
+  width: 35%;
+  padding: 10px;
+  height: 200;
+}
+.commentCol {
+  /* background-color:#bbb; */
+  float: left;
+  width: 40%;
+  padding: 10px;
+  height: 300px;
+}
+
+.buttonCol {
+  /* background-color:#ccc; */
+  float: left;
+  width: 15%;
+  padding: 10px;
+  height: 300px;
+  margin-left: 50px;
+}
+
+.textBtn {
+  width: 100px;
+  height: 35px;
+}
+
+.imgCol::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.image {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.imageText {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.reviewImg {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 200;
+}
